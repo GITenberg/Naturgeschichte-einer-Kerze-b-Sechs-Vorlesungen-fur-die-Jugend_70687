@@ -1,0 +1,35 @@
+_repo: Naturgeschichte-einer-Kerze-b-Sechs-Vorlesungen-fur-die-Jugend_70687
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Faraday, Michael
+    alias: Faraday, M. (Michael)
+    birthdate: 1791
+    deathdate: 1867
+    gutenberg_agent_id: '5541'
+    url: http://www.gutenberg.org/2009/agents/5541
+    wikipedia: https://en.wikipedia.org/wiki/Michael_Faraday
+  editor:
+    agent_name: Meyer, Richard
+    gutenberg_agent_id: '55864'
+    url: http://www.gutenberg.org/2009/agents/55864
+description: ''
+gutenberg_issued: '2023-05-03'
+identifiers:
+  gutenberg: '70687'
+language: de
+pgterms:marc904: https://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=741194392
+pgterms:marc905: 20221106092554faraday
+pgterms:marc906: '1905'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (The digitized holdings of the Staatsbibliothek zu Berlin are available to all interested
+  parties worldwide free of charge for non-commercial use.)
+publication_note: '  $aGermany :$bHans Schulze, Verlagsbuchhandlung, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Naturgeschichte einer Kerze : $b Sechs Vorlesungen für die Jugend'
+url: http://www.gutenberg.org/ebooks/70687
